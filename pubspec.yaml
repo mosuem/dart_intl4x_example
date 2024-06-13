@@ -1,0 +1,9 @@
+name: dart_intl4x_example
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  intl4x: ^0.9.1
